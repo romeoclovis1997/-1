@@ -1,0 +1,20 @@
+/* Example CSS for Navbar */
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Example CSS for Sidebar */
+.sidebar {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+    width: 250px;
+}
+
+/* Example CSS for Main Content */
+.content {
+    margin-left: 250px; /* Adjust the margin based on your sidebar width */
+    padding: 20px;
+}
